@@ -1,9 +1,5 @@
 # Langage-Translation
 title: Langage Translation
 emoji: 👁
-colorFrom: gray
-colorTo: purple
-sdk: streamlit
-sdk_version: 1.25.0
-app_file: app.py
-pinned: false
+
+Ceci est un exercice de traitement de texte dont le but est de classifier 22 langues parmi 22000 enregistrements de textes aléatoire. La classification a été bien faite avec un taux de 99%.
